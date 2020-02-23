@@ -1,0 +1,38 @@
+[
+  {
+    "patronus" : "Doe",
+    "characters" : "['Severus Snape', 'Lilly Potter']"
+    },
+  {
+    "patronus" : "Stag",
+    "characters" : "['James Potter', 'Harry Potter']"
+  },
+  {
+    "patronus" : "Horse",
+    "characters" : "['Ginny Weasley', 'Terry Boot']"
+  },
+  {
+    "patronus" : "Cat",
+    "characters" : "['Minerva McGonagall', 'Dolores Umbridge']"
+  },
+  {
+    "patronus" : "Aardvark",
+    "characters" : "['John Dawlish', 'Draco Malfoy']"
+  },
+  {
+    "patronus" : "Beagle",
+    "characters" : "['Ron Weasley', 'Lavender Brown']"
+  },
+  {
+    "patronus" : "Cobra",
+    "characters" : "['Rolanda Hooch', 'Mafalda Hopkirk']"
+  },
+  {
+    "patronus" : "Otter",
+    "characters" : "['Arthur Weasley', 'Seamus Finnigan']"
+  },
+  {
+    "patronus" : "Goat",
+    "characters" : "['Aberforth Dumbledor', 'Cormac McLaggen']"
+  }
+]
