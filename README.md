@@ -1,5 +1,6 @@
 # patronusAPI
 
+Much of the code was take from Sian Culligan's hp_house api on github. 
 
 Inspiration for the patronuses and characters was pulled from:
 
