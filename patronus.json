@@ -32,6 +32,10 @@
     "characters" : "['Arthur Weasley', 'Seamus Finnigan']"
   },
   {
+  "patronus" : "Basset Hound",
+  "characters" : "['Jordan TheFox', 'Darth Vader']"
+  },
+  {
     "patronus" : "Goat",
     "characters" : "['Aberforth Dumbledor', 'Cormac McLaggen']"
   }
